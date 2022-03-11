@@ -22,17 +22,7 @@ class Landing extends Component {
               I'm captivated to be a Full Stack Developer. Python, JavaScript, HTML, CSS, jQuery, NodeJS, ExpressJS, ReactJS, MongoDB are the arrows in my quiver. 
               As an engineer, I excel at being an eager beaver in adopting new skills to provide shrewd results. I am very elevated to be able to use my unique skills and want to show my dedication in developing world-class software solutions.
               </p>
-              <div className="social-links">
-                {/* Linked In */}
-                <a
-                  href="https://www.linkedin.com/in/manoj-gowda27"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  <i className="fa fa-linkedin" aria-hidden="true" />
-                </a>
-
-                </div>
+             
             </div>
           </Cell>
         </Grid>
