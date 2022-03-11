@@ -53,6 +53,7 @@ class Resume extends Component {
             >
               Web
             </h5>
+            <p style={{ textAlign: "center" }}>https://mg2705.herokuapp.com</p>
           </Cell>
           <Cell col={9} className="resume-right-col">
             <h2 style={{ fontFamily: "Pacifico" }}>Education</h2>
