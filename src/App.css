@@ -1,0 +1,147 @@
+.header-color {
+  background: #232526; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #414345,
+    #232526
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #414345,
+    #232526
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.landing-grid {
+  background: #232526; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #414345,
+    #232526
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #414345,
+    #232526
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  text-align: center;
+  position: fixed;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.avatar-img {
+  height: 270px;
+}
+
+.tag-line {
+  opacity: 0.8;
+  width: 75%;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.tag-line h1 {
+  font-size: 63px;
+  font-weight: bold;
+  color: white;
+  font-family: Pacifico;
+}
+
+.tag-line hr {
+  border-top: 5px dotted white;
+  width: 50%;
+  margin: auto;
+}
+
+.tag-line p {
+  color: white;
+  font-size: 20px;
+  padding: 1em;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: justify;
+  -ms-text-kashida-space: 5%;
+}
+
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto;
+}
+
+.social-links i {
+  color: white;
+  font-size: 5em;
+  padding: 8px;
+}
+
+.category-tabs {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+
+ {
+  /* Contact Page*/
+}
+
+.contact-body {
+  margin: auto;
+  background: grey;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding-top: 2em;
+}
+
+.contact-grid h3 {
+  font-family: "Pacifico", cursive;
+}
+
+.contact-grid {
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 550px;
+  background: black;
+  color: white;
+  border: 2px solid red;
+  margin-bottom: 20px;
+  font-family: "Oxygen", sans-serif;
+  font-weight: bold;
+}
+
+.contact-grid hr {
+  border-top: 5px dotted black;
+  width: 50%;
+  margin: auto;
+}
+
+.contact-list i {
+  padding: 1em;
+}
+
+.contact-list {
+  color: white;
+}
+
+ {
+  /* Contact Page*/
+}
+
+ {
+  /*Resume Page*/
+}
+
+.resume-right-col {
+  background: #232526;
+  color: white;
+  border: 2px double red;
+  justify-content: center;
+}
+
+ {
+  /*Resume Page*/
+}
