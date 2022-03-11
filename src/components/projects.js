@@ -73,7 +73,7 @@ accuracy</CardText>
                 "url(https://sod.pixlab.io/images/out_plate.png) center / cover",
             }}
           ></CardTitle>
-          <CardText>Implemented license plate recognition using a custom YOLOv4 Object Detector, OpenCV, and Tesseract OCR.</CardText>
+          <CardText>Implemented license plate recognition using a custom YOLOv3 Object Detector, OpenCV, and Tesseract OCR.</CardText>
           <CardActions border>
             <Button colored href="https://github.com/ManojGowda27/License-Plate-Detection">Github</Button>
             
