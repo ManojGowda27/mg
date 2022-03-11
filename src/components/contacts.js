@@ -51,6 +51,19 @@ class Contact extends Component {
                     @vmanojgowda27
                   </ListItemContent>
                 </ListItem>
+
+              <ListItem>
+                  <ListItemContent
+                    style={{
+                      fontSize: "25px",
+                      fontFamily: "Pacifico",
+                      color: "white",
+                    }}
+                  >
+                    <i className="fa fa-linkedin" aria-hidden="true" />
+                    linkedin.com/in/manoj-gowda27
+                  </ListItemContent>
+                </ListItem>
               </List>
             </div>
           </Cell>
